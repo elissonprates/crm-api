@@ -1,0 +1,8 @@
+{
+  "name": "crm-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elissonprates/crm-api.git",
+  "author": "Elisson Prates <elissonprates@gmail.com>",
+  "license": "MIT"
+}
